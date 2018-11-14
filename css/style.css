@@ -1,0 +1,51 @@
+header {
+  position: fixed;
+  top: 0;
+  min-height: 75px;
+  display: flex;
+}
+
+#sub-head {
+  position: fixed;
+  top: 40px;
+  font-size: 105%;
+}
+
+nav {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10px;
+  align-items: center;
+  text-align: center;
+  padding: 0 650px;
+}
+nav li {
+  padding-bottom: 10px;
+}
+
+ul {
+  width: 20em;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+@media pad {
+  ul {
+    flex-direction: column;
+  }
+}
+
+#video-guide {
+  margin-top: 80px;
+  display: flex;
+  justify-content: center;
+}
+
+iframe {
+  max-width: 600px;
+  width: 100%;
+}
+
+#email-field {
+  margin-bottom: 10px;
+}
