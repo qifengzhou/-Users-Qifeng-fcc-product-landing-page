@@ -1,3 +1,3 @@
-A Pen created at CodePen.io. You can find this one at https://codepen.io/Steinhafen/pen/VGJJzN.
+Product landing page project, one of responsive web design projects. Deployed on Github Pages at https://qifengzhou.github.io/Product-Landing-Page/
 
  
